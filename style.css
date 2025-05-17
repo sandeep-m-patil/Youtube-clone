@@ -1,0 +1,10 @@
+
+.video-preview{
+    border: 1px solid black;
+    width: 30vw;
+    margin: 12px;
+}
+.thumbnail{
+    width: 100%;
+    height: auto;
+}
